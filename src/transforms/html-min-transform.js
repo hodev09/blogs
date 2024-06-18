@@ -11,4 +11,6 @@ module.exports = function htmlMinTransform(value, outputPath) {
     return minified;
   }
   return value;
+
+  //test
 };
